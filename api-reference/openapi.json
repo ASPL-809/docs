@@ -26,7 +26,7 @@
   "paths": {
     "/api/resource/Absence": {
       "get": {
-        "description": "returns a list of object with type Absence",
+        "description": "returns a list of object with type Absenceaaaaaaaaaaaaaaaaaa",
         "parameters": [
           {
             "name": "filters",
